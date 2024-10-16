@@ -21,7 +21,7 @@ header {
 
 .container_menu {
     display: flex;
-    height: 100vh;
+    height: 95vh;
     width: 300px;
     overflow-y: auto;
     position: fixed;
