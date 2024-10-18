@@ -11,7 +11,11 @@ header {
     background: #35424a;
     color: #ffffff;
     padding: 20px 0;
-    text-align: center;
+    text-align: left;
+}
+
+header h1 {
+    margin-left: 40vw;
 }
 
 .container {
@@ -22,7 +26,7 @@ header {
 .container_menu {
     display: flex;
     height: 100vh;
-    width: 290px;
+    width: 20vw;
     overflow-y: auto;
     position: fixed;
     left: 0;
