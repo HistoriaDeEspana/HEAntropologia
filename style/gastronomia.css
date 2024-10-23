@@ -41,8 +41,12 @@ header h1 {
 aside {
     width: 250px;
     height: fit-content;
-    background: #e2e2e2;
+    background-color: #FFFFFF77;
     padding: 20px;
+}
+
+main {
+    background-color: transparent;
 }
 
 nav {
