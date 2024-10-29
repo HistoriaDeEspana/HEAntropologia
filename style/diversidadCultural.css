@@ -3,30 +3,20 @@ body {
     line-height: 1.6;
     margin: 0;
     padding: 0;
-    background-color: #f4f4f4;
     color: #333;
 }
 
-header {
-    background: #35424a;
-    color: #ffffff;
-    padding: 20px 0;
-    text-align: center;
-}
+
 
 .container {
     display: flex;
 }
 
 aside {
-    width: 250px;
-    background: #e2e2e2;
     padding: 20px;
 }
 
-nav {
-    margin: 0;
-}
+
 
 nav ul {
     list-style: none;
@@ -62,15 +52,7 @@ h3 {
     color: #35424a;
 }
 
-footer {
-    text-align: center;
-    padding: 20px 0;
-    background: #35424a;
-    color: #ffffff;
-    position: relative;
-    bottom: 0;
-    width: 100%;
-}
+
 
 p {
     margin-bottom: 15px;
